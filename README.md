@@ -6,7 +6,7 @@ Portfolio of work to showcase my frontend web development skills.
 
 ## Link to deployed application
 
-[Cristina Perez Arranz Web Development Portfolio](https://chirbirita.github.io/portfolio-v1/)
+[My Web Development Portfolio](https://chirbirita.github.io/portfolio-v1/)
 
 ## Usage
 
