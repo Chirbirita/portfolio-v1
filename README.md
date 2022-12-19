@@ -10,7 +10,7 @@ Portfolio of work to showcase my frontend web development skills.
 
 ## Usage
 
-![Screenchot agency website](assets/images/Portfolio1.png)
+![Screenchot online portfolio](./images/Portfolio1.png)
 
 ## Credits
 
