@@ -186,7 +186,7 @@ main {
   font-size: 1.6rem;
 }
 
-.contact address{
+.contact address {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
@@ -200,7 +200,11 @@ main {
   text-decoration: none;
   font-size: 1.3rem;
   display: inline-block;
-  background-image: linear-gradient(270deg, var(--primary) 0%, var(--primary) 100%);
+  background-image: linear-gradient(
+    270deg,
+    var(--primary) 0%,
+    var(--primary) 100%
+  );
   background-repeat: no-repeat;
   background-size: 100% 0.2em;
   background-position: bottom;
@@ -255,7 +259,7 @@ main {
     flex: 0 0 100%;
   }
 
-  .page-section >h2 {
+  .page-section > h2 {
     border-right: none;
     border-bottom: 4px solid var(--primary);
     margin-bottom: 20px;
@@ -284,5 +288,4 @@ main {
     flex-direction: column;
     align-items: flex-start;
   }
-
 }
